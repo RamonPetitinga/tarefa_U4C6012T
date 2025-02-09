@@ -5,8 +5,7 @@
 #include "hardware/i2c.h"
 #include "inc/ssd1306.h"
 #include "inc/font.h"
-
-#include "ws2812.pio.h"
+#include "inc/ws2812.pio.h"
 
 // Definição dos pinos para conexão com os LEDs RGB
 #define LED_G_PIN 11
